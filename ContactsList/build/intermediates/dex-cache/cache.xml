@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c434e83465bc4a58873d585546cb6aacbc3bb1b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="35363a7ae622dbd754d63845731767900bc0b60f">
+        <dex dex="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_621d0f09441115754d7c4636bb93e28651c0673a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f26146923c1745ed4c8b5e9dab5eaa0e9c08795f">
+        <dex dex="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_327e0a3209ddf12700fcca4d6896edb48ac7e5ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guest999\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fb8c3cc3f986b4e2ed509a1d38f0def2a671b805\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_542f70a9610f5d19ed1662e96f10aa69dcb31650\classes.dex" />
+    </item>
+
+</items>

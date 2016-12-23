@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.4.0"><source path="C:\Users\Guest999\Desktop\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Guest999\Desktop\ContactsList\app\src\main\assets"/><source path="C:\Users\Guest999\Desktop\ContactsList\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Guest999\Desktop\ContactsList\app\src\debug\assets"/></dataSet></merger>

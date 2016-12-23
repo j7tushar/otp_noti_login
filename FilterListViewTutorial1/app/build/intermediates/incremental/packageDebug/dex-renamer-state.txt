@@ -1,0 +1,7 @@
+#Thu Nov 10 13:49:32 IST 2016
+base.0=C\:\\Users\\Guest999\\Desktop\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f2f36694a0814052136bb6eee4b54a6fedd3c049
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Guest999\\Desktop\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c272bb54f292e3ce3d8da3ca93d34b55f1d52b03\\classes.dex
+base.1=C\:\\Users\\Guest999\\Desktop\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c272bb54f292e3ce3d8da3ca93d34b55f1d52b03
+file.0=C\:\\Users\\Guest999\\Desktop\\FilterListViewTutorial1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f2f36694a0814052136bb6eee4b54a6fedd3c049\\classes.dex
